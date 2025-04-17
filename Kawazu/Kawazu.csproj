@@ -7,7 +7,7 @@
         <Version>1.1.4</Version>
         <Authors>Cutano</Authors>
         <Company>Cutano</Company>
-        <TargetFrameworks>net5.0;netcoreapp3.1;netstandard2.0</TargetFrameworks>
+        <TargetFrameworks>net8.0</TargetFrameworks>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <AssemblyVersion>1.1.4</AssemblyVersion>
         <Copyright>© Cutano 2020</Copyright>

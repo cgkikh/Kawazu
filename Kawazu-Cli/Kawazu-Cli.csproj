@@ -4,7 +4,8 @@
         <OutputType>Exe</OutputType>
         <RootNamespace>Kawazu</RootNamespace>
         <LangVersion>9</LangVersion>
-        <TargetFrameworks>net5.0;netcoreapp3.1</TargetFrameworks>
+        <TargetFrameworks>net8.0</TargetFrameworks>
+        <PublishTrimmed>true</PublishTrimmed>
     </PropertyGroup>
 
     <ItemGroup>
